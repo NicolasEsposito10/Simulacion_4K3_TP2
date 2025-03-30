@@ -5,6 +5,8 @@ from tkinter import ttk
 from tkinter import ttk, messagebox
 import pandas as pd
 
+from tkinter import ttk, messagebox
+import pandas as pd
 
 class SimulacionApp:
     def __init__(self, root):
